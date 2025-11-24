@@ -3,7 +3,7 @@
 # Title of the project-Hotel Management System
  
  
- ● Overview of the project:-Develop a software named Hotel Management System to 
+ # Overview of the project:-Develop a software named Hotel Management System to 
                          Automate manual functions of a Hotel. The software should helps to 
                          manage the entire Hotel operations from maintaining Rooms records, 
                          Customers record to check-in and check-out in the Hotel. Introduce 
@@ -12,33 +12,33 @@
                          staff instantly.
  
  
- ● Features:- Simple and easy to operate 
-                         -Increase Hotel’s staff efficiencies 
-                         -Search, add, update, and view Room’s and booking details 
-                         -Helps to manage Hotel’s functions constructively 
-                         -Saves time and reduces overheads 
-                         -Reduce Hotel’s operating cost 
-                         -Customized reports for better management 
-                         -Remove manual processes to book rooms, check-in & check-out 
-                          and maintain records and produce daily reports.
+ # Features:- Simple and easy to operate 
+-Increase Hotel’s staff efficiencies 
+-Search, add, update, and view Room’s and booking details 
+-Helps to manage Hotel’s functions constructively 
+-Saves time and reduces overheads 
+-Reduce Hotel’s operating cost 
+-Customized reports for better management 
+-Remove manual processes to book rooms, check-in & check-out 
+ and maintain records and produce daily reports.
  
  
- ● Technologies/tools used-Python Version 3.13.7 and later version.
-                          Data handling via Python.
-                          Standard python data structures (dictionaries,list)for in memory storage.
+ # Technologies/tools used-Python Version 3.13.7 and later version.
+  -Data handling via Python.
+  -Standard python data structures (dictionaries,list)for in memory storage.
  
  
- ● Steps to install and run the projects:-
-                         -Clone or download the repository to your local computer.
-                         -Ensure Python 3.x is installed. (Test with python --version)
-                         -Ensure Dbms app such as mysql is installed in the system.
-                         -Navigate to the project directory in a terminal.
-                         -Pandas library preinstalled 
-                         -Matplotlib library preinstalled 
-                         -Ms-Office Pre-installed for documentation
+ # Steps to install and run the projects:-
+  -Clone or download the repository to your local computer.
+  -Ensure Python 3.x is installed. (Test with python --version)
+  -Ensure Dbms app such as mysql is installed in the system.
+  -Navigate to the project directory in a terminal.
+  -Pandas library preinstalled 
+  -Matplotlib library preinstalled 
+  -Ms-Office Pre-installed for documentation
                          
 
- ●Instructions for testing:-
+ #Instructions for testing:-
 
  
  Phase 1: Setup & Initialization
