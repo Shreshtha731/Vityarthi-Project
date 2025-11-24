@@ -1,6 +1,6 @@
 # Vityarthi-Project
  
- ● Title of the project-Hotel Management System
+# Title of the project-Hotel Management System
  
  
  ● Overview of the project:-Develop a software named Hotel Management System to 
