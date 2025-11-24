@@ -13,19 +13,19 @@
  
  
  # Features:- Simple and easy to operate 
--Increase Hotel’s staff efficiencies 
--Search, add, update, and view Room’s and booking details 
--Helps to manage Hotel’s functions constructively 
--Saves time and reduces overheads 
--Reduce Hotel’s operating cost 
--Customized reports for better management 
--Remove manual processes to book rooms, check-in & check-out 
- and maintain records and produce daily reports.
+   -Increase Hotel’s staff efficiencies 
+   -Search, add, update, and view Room’s and booking details 
+   -Helps to manage Hotel’s functions constructively 
+   -Saves time and reduces overheads 
+   -Reduce Hotel’s operating cost 
+   -Customized reports for better management 
+   -Remove manual processes to book rooms, check-in & check-out 
+   and maintain records and produce daily reports.
  
  
  # Technologies/tools used-Python Version 3.13.7 and later version.
-  -Data handling via Python.
-  -Standard python data structures (dictionaries,list)for in memory storage.
+   -Data handling via Python.
+   -Standard python data structures (dictionaries,list)for in memory storage.
  
  
  # Steps to install and run the projects:-
