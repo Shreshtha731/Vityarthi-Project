@@ -12,7 +12,7 @@
    staff instantly.
  
  
- # Features:- Simple and easy to operate 
+ ## Features:- Simple and easy to operate 
    -Increase Hotel’s staff efficiencies 
    -Search, add, update, and view Room’s and booking details 
    -Helps to manage Hotel’s functions constructively 
