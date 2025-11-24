@@ -4,12 +4,12 @@
  
  
  # Overview of the project:-Develop a software named Hotel Management System to 
-                         Automate manual functions of a Hotel. The software should helps to 
-                         manage the entire Hotel operations from maintaining Rooms records, 
-                         Customers record to check-in and check-out in the Hotel. Introduce 
-                         various kinds or analysis and data visualization too. Make it easier to 
-                         search for rooms, customers and booking details for Hotel Management 
-                         staff instantly.
+   Automate manual functions of a Hotel. The software should helps to 
+   manage the entire Hotel operations from maintaining Rooms records, 
+   Customers record to check-in and check-out in the Hotel. Introduce 
+   various kinds or analysis and data visualization too. Make it easier to 
+   search for rooms, customers and booking details for Hotel Management 
+   staff instantly.
  
  
  # Features:- Simple and easy to operate 
